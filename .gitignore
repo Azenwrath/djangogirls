@@ -6,3 +6,5 @@ djangovenv
 db.sqlite3
 /static
 .DS_Store
+/mysite/mysite/config.py
+
